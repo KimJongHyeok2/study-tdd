@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.web.tdd</groupId>
-	<artifactId>tdd</artifactId>
+	<artifactId>tdd-1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>tdd</name>
+	<name>tdd-1</name>
 	<description>Collect Popular Postings</description>
 
 	<properties>
